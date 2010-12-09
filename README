@@ -1,0 +1,4 @@
+A bookmarklet that makes fractal snowflakes float down your browser
+window and also promotes my new book _Canvas Pocket Reference_
+The snowflake() function is a <canvas> example from that book.
+

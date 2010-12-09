@@ -14,6 +14,9 @@
  * This ought to work in IE9 beta, since that browser supports <canvas>.
  * But it doesn't seem to.  I took the shortcut of using window.innerHeight
  * and window.pageYOffset, and I'm guess that is what is breaking it.
+ * 
+ * Copyright 2010 by David Flanagan
+ * http://creativecommons.org/licenses/by-nc-sa/3.0/
  */
 (function() {
     // If we don't have a working <canvas> element, apologize and quit
